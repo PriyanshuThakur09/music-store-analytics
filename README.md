@@ -66,8 +66,3 @@ The project uses a publicly available sample music store dataset chinook.
 **Priyanshu Thakur** 
 [LinkedIn](https://www.linkedin.com/in/priyanshu-thakur-9a0417249/)
 
-**Priyanshu Thakur**  
-Final Year B.Tech – Production Engineering  
-Department Rank: 4  
-📫 [LinkedIn](https://www.linkedin.com) *(insert your real profile link)*  
-
