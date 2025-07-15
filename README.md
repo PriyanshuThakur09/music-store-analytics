@@ -12,8 +12,8 @@ The project covers everything from writing efficient SQL queries to building an 
 |------|-------------|
 | `music_store_analysis.sql` | SQL script containing all data analysis queries. |
 | `music_store_dashboard.pbix` | Power BI file with complete interactive dashboard. |
-| `music_store_summary.pdf` | PDF summary of the dashboard and key insights  |
-
+| `music_store_dashboard.pdf` | PDF summary of the dashboard and key insights  |
+| `music_store_analytics(SQL+Power BI).pdf` | The Complete PDF summary of the SQL queries, Schema, Dashboard, Key Features and Insights   |
 ---
 
 ## Key Insights & Features
